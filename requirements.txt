@@ -1,3 +1,3 @@
-pytest==9.*
-selenium==4.*
-webdriver-manager==5.*
+pytest==8.3.3
+selenium==4.23.1
+webdriver-manager==5.1.0
